@@ -22,7 +22,7 @@ let myAgeInDogYears = earlyYears + laterYears;
 
 //Essa linha de código converte seu nome para letras minúsculas/
 
-let myName = "BIA".toLowerCase(); 
+let myName = "Letícia".toLowerCase(); 
 console.log(myName)
 
 //Imprime no console a frase com os valores substituídos pelas variáveis/
